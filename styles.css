@@ -1,0 +1,129 @@
+
+body{
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family:'Merriweather', serif;
+  font-size:20px;
+}
+span{
+  text-decoration: underline;
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+p{
+  line-height:2;
+  font-size:15px; 
+}
+h1{
+  margin:50 auto 0 auto ;
+  font-family: 'Sacramento', cursive;
+  font-size:5.625rem;
+  color: #66BFBF;
+  line-height:1;
+}
+h2{
+  font-family:'Montserrat',sans-serif;
+  font-size:2.5rem;
+  color: #66BFBF;
+  margin-bottom: 0;
+}
+h3{
+  font-family:'Montserrat',sans-serif;
+  color:#11999E;
+}
+hr{
+  border-style:none;
+border-top-style:dotted;
+border-color:grey;
+border-width:5px;
+width:5%;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+}
+a{
+  text-decoration: none;
+  margin:10px 20px;
+  font-family:'Montserrat',sans-serif;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.topcontainer{
+background-color:#E4F4F9;
+position: relative;
+padding-top:100px;
+}
+.middle-container{
+  margin: 100px auto;
+}
+
+.bottom-container{
+    background-color:#66BFBF;
+    padding:50px 0 20px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 56;
+  -moz-border-radius: 56;
+  border-radius: 56px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #34c8db;
+  background-image: -webkit-linear-gradient(top, #34c8db, #e016e0);
+  background-image: -moz-linear-gradient(top, #34c8db, #e016e0);
+  background-image: -ms-linear-gradient(top, #34c8db, #e016e0);
+  background-image: -o-linear-gradient(top, #34c8db, #e016e0);
+  background-image: linear-gradient(to bottom, #34c8db, #e016e0);
+  text-decoration: none;
+}
+.bottom-cloud{
+  position:absolute;
+  right:300px;
+  top:40px;
+}
+.top-cloud{
+  position: absolute;
+  left:250px;
+  bottom:200px;
+}
+.chillies{
+  width:25%;
+  float: left;
+}
+.computer{
+  width: 25%;
+  float: right;
+  border-radius:100px;
+}
+.footer-link{
+  color: #11999E;
+}
+.contact-me{
+  line-height: 2
+}
+.contact-message{
+  width:40%;
+  margin:40px auto 40px;
+}
+.janaki{
+  color:#EAF6F6 ;
+  padding:20px 0;
+}
